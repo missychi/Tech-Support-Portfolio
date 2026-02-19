@@ -11,8 +11,7 @@ This repository contains my technical labs and troubleshooting logs.
 * **Problem:** Performing arithmetic directly in CPU registers.
 * **Solution:** Developed a program to calculate values using EAX, EBX, and ECX registers.
 * **Troubleshooting:** Successfully configured GDB 'layout regs' to monitor real-time memory changes when the standard debugger was unresponsive.
-  
-## Technical Skills Summary
+
 ## Programming & Logic
 
 * **C++ (1+ Year):** Proficient in object-oriented programming, memory management (pointers/references), and troubleshooting complex logic errors.
